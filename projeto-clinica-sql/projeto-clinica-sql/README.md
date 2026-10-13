@@ -14,6 +14,7 @@ criado para praticar SQL.
 | `01_criar_e_popular.sql` | Cria o banco, as tabelas e os dados fictícios |
 | `02_consultas.sql` | Filtros, ordenação e JOINs |
 | `03_agregacoes.sql` | Totais, médias, GROUP BY e HAVING |
+| `04_group_by_e_case_when.sql` | Agrupamentos por mês e procedimento, HAVING e classificações com CASE WHEN |
 
 ## Perguntas de negócio respondidas
 - Qual o faturamento total e o ticket médio?
@@ -23,8 +24,9 @@ criado para praticar SQL.
 - Quais atendimentos tiveram desconto?
 
 ## Conceitos praticados
-JOIN com 3 tabelas, LEFT JOIN + IS NULL, ORDER BY, LIMIT, LIKE, IN, BETWEEN,
-COUNT, SUM, AVG, ROUND, GROUP BY, HAVING e formatação de datas.
+OIN com 3 tabelas, LEFT JOIN + IS NULL, ORDER BY, LIMIT, LIKE, IN, BETWEEN,
+     COUNT, SUM, AVG, ROUND, GROUP BY, HAVING, CASE WHEN, SUM(CASE WHEN ...),
+     subquery simples e formatação de datas.
 
 ## Como rodar
 1. Execute `01_criar_e_popular.sql` (cria o banco e os dados)
