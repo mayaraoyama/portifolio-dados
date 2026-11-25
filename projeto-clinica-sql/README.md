@@ -15,6 +15,7 @@ criado para praticar SQL.
 | `02_consultas.sql` | Filtros, ordenação e JOINs |
 | `03_agregacoes.sql` | Totais, médias, GROUP BY e HAVING |
 | `04_group_by_e_case_when.sql` | Agrupamentos por mês e procedimento, HAVING e classificações com CASE WHEN |
+| `05_subqueries.sql` | Subqueries no WHERE, NOT IN, HAVING e no FROM |
 
 ## Perguntas de negócio respondidas
 - Qual o faturamento total e o ticket médio?
